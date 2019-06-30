@@ -21,7 +21,7 @@ plugins:
 # Site settings
 url: 'https://distracted-cray-6367b4.netlify.com'
 baseurl: ''
-title: 'Digital PCI'
+title: 'Jekyll'
 description: 'Fast Hosting & Custom Design'
 permalink: pretty
 logo: "https://digitalpci.com/images/logo.svg"
@@ -34,18 +34,18 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Hosting
-  url: /hosting/
-- title: Development
-  url: /development/  
-- title: Domains
-  url: /domains/
-- title: Member Login
-  url: /login/  
-- title: About
-  url: /about/ 
-- title: Tools
-  url: /about/      
+#- title: Hosting
+#  url: /hosting/
+#- title: Development
+#  url: /development/  
+#- title: Domains
+#  url: /domains/
+#- title: Member Login
+#  url: /login/  
+#- title: About
+#  url: /about/ 
+#- title: Tools
+#  url: /about/      
 
 # Footer nav
 navigation_footer:
